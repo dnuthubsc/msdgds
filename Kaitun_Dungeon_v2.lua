@@ -25,12 +25,6 @@ local DEFAULTS = {
     AntiIdle            = true,
     HUD                 = true,
     HUDKey              = "RightShift",
-    RequeueFile         = "Kaitun_v2.lua",
-    RequeueUrl          = nil,
-    DungeonFile         = "Kaitun_Dungeon_v2.lua",
-    DungeonUrl          = nil,
-    LoaderFile          = "amitoofast.lua",
-    LoaderUrl           = nil,
 
     Verbose             = true,
 }
