@@ -60,11 +60,6 @@ Collection.DEFAULTS = {
     Diagnostic       = false,
     Verbose          = true,
     TravelCooldown   = 5,
-    Requeue          = true,
-    RequeueFile      = "Kaitun_v2.lua",
-    RequeueUrl       = nil,
-    DungeonFile      = "Kaitun_Dungeon_v2.lua",
-    DungeonUrl       = nil,
 }
 
 Collection.ALIASES = {
